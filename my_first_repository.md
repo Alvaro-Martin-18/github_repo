@@ -35,8 +35,6 @@ git add FILE1
 
 this will add FILE1 into the respository made
 
-
-
 to commit chaging the file inside, you then write 
 
 ```
@@ -53,26 +51,4 @@ this will show the status of the repository, if the files inside have been commi
 
 this is useful to see the timeline of the project
 
-
-
-
-
-you can make local changes into a file by "saving it"
-
-only when you add it into the staging area (using git add) the changes will be saved into the timeline
-
-you can "save the changes" as many times as you want, but these will only be saved as a single file - you update the file in the timeline but you do not change the timeline
-
-only when you commit the file, the new changes will be added
-
-
-
-if a file has not been added to the git (haven done git add FILE1), then you can save the file as many times as you want, but the changes will not be recorded in git. there will be no timeline recorded
-
-only after you add, the changes in the file will be saved and updated in git. 
-
-
-
-
-
-lets add this
+erfad
