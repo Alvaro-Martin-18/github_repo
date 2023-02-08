@@ -57,6 +57,10 @@ this is useful to see the timeline of the project
 
 erfad
 
+
+
+
+
 this will only show the differences between the files that have been commited - only after fit commitgit 
 
 ```
@@ -65,7 +69,11 @@ git log
 
 this will show the history of all the commits. showing who commited, what time, what message was added to the commitment
 
+
+
 ```
 git show <commitID1> <commitID2> #this will show you two different versions of the the file so you can compare 
 git diff  #this only shows the differences in the code between commitments
 ```
+
+
