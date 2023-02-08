@@ -16,8 +16,6 @@ Git will also make a repository of the subfolders where you initiated the timeli
 - local repository
 
 - remote repository - github in this case
-  
-  
 
 To initialise a repository, you first need to open git.
 
@@ -69,3 +67,9 @@ this will show the history of all the commits. showing who commited, what time, 
 git show <commitID1> <commitID2> #this will show you two different versions of the the file so you can compare 
 git diff  #this only shows the differences in the code between commitments
 ```
+
+
+
+
+
+this is the new line
